@@ -1,0 +1,6 @@
+streamlit
+transformers
+torchaudio
+fpdf
+replicate
+git+https://github.com/openai/whisper.git
